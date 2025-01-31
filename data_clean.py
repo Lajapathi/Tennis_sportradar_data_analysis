@@ -6,7 +6,7 @@ session,competitors_table,competitor_rankings_table=get_db_data()
 competitors_data = session.query(competitors_table).all()
 rankings_data = session.query(competitor_rankings_table).all()
 
-##
+
 
 competitors_df = pd.DataFrame([{
     'competitor_id': c.competitor_id,
