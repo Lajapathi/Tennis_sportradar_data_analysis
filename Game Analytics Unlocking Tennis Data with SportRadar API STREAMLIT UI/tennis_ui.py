@@ -6,7 +6,7 @@ from data_clean import get_copetitors_data
 
 merged_df=get_copetitors_data()
 # Sample data (replace with your actual dataset)
-print("sucess")
+
 
 st.title("Competitor Dashboard")
 
