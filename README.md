@@ -10,6 +10,13 @@ To develop a comprehensive solution for managing, visualizing, and analyzing spo
 
 https://github.com/user-attachments/assets/6f54fcc2-0dbb-4af4-942c-01eabb3aac93
 
+**Business Use Cases:**
+1. Event Exploration: Enable users to navigate through competition hierarchies (e.g., ATP Vienna events).
+2. Trend Analysis: Visualize the distribution of events by type, gender, and competition level.
+3. Performance Insights: Analyze player participation across singles and doubles events.
+4. Decision Support: Offer data-driven insights to event organizers or sports bodies for resource allocation.
+
+
 
 
 
